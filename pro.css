@@ -1,0 +1,26 @@
+body {
+    background-color: brown;
+    background-image: url('/frontend/img/17.jpg');
+    background-size: 100%;
+    background-attachment: fixed;
+}
+
+.rap {
+    width: 250px;
+    height: 390px;
+    background-color: bisque;
+    float: left;
+    padding: 10px;
+    margin: 5px;
+    border-style: dotted;
+    border-width: 5px;
+    border-color: orangered;
+}
+.blus {
+    width: 300px;
+    height: 300px;
+    background-color: rgb(50, 190, 214);
+    /* float: right; */
+    padding: 10px;
+    margin: 5px;
+}

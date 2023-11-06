@@ -1,0 +1,18 @@
+body {
+    background-color: rgb(31, 17, 70);
+}
+.contain {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+}
+
+.child {
+    width: 250px;
+    height: 250px;
+    background-color: aqua;
+    margin: 10px;
+}
+.anc {
+    width: 250px;
+    height: 250px;
+}

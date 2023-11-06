@@ -1,0 +1,15 @@
+body {
+    background-color: olive;
+}
+
+.contain {
+    display: flex;
+}
+.child {
+    width: 200px;
+    background-color: aqua;
+    margin: 10px;
+}
+.big {
+    width: 100%;
+}
