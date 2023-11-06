@@ -112,3 +112,5 @@ for (var i = 10; i >= 0; --i) {
     }
     c(i);
 }
+
+var fruit = ["papaya"];
